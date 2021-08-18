@@ -1,0 +1,14 @@
+body {
+    color: #999;
+    background-color: rgb(12, 9, 9);
+}
+
+h1 {
+    text-align: center;
+    font-size: 70px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
