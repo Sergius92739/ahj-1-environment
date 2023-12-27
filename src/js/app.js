@@ -2,6 +2,7 @@
 
 // comment this to pass build
 const unusedVariable = 'variable';
+
 // eslint-disable-next-line no-console
 console.log(unusedVariable);
 
